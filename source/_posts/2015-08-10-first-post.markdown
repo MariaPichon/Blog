@@ -7,3 +7,5 @@ categories:
 ---
 
 ## First Blog Post ##
+
+*My name is Maria Isabel Pichon Cadena*
