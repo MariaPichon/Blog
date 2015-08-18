@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://mariapichon.github.io/Blog/atom.xml" rel="self"/>
   <link href="http://mariapichon.github.io/Blog/"/>
-  <updated>2015-08-18T10:29:03-05:00</updated>
+  <updated>2015-08-18T11:03:20-05:00</updated>
   <id>http://mariapichon.github.io/Blog/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,6 +12,24 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[More HTML and CSS]]></title>
+    <link href="http://mariapichon.github.io/Blog/blog/2015/07/26/more-html-and-css/"/>
+    <updated>2015-07-26T10:54:00-05:00</updated>
+    <id>http://mariapichon.github.io/Blog/blog/2015/07/26/more-html-and-css</id>
+    <content type="html"><![CDATA[<p>This week was really interisting. I keep learning so much information about HTML and CSS and I&rsquo;m very excited for the final outcome of our portfolios! Chapter03 has been tough but I think that with a little more practice I will be able to understand it better.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[HTML and CSS]]></title>
+    <link href="http://mariapichon.github.io/Blog/blog/2015/07/17/html-and-css/"/>
+    <updated>2015-07-17T10:31:27-05:00</updated>
+    <id>http://mariapichon.github.io/Blog/blog/2015/07/17/html-and-css</id>
+    <content type="html"><![CDATA[<p>This week has been great! I find learning about HTML and CSS a lot easier than JavaScript. I find all the coding behind a webpage/website very interesting. I&rsquo;m a little confused about when to use JavaScript and HTML but I still have learned alot! I didn&rsquo;t have time to work on chapter 3 but I will be working on it on Monday.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[More Java, Graphic Design and UX Conference]]></title>
