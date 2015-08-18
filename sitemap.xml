@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://mariapichon.github.io/Blog/blog/2015/08/10/catching-up/</loc>
+    <lastmod>2015-08-10T11:38:33-05:00</lastmod>
+  </url>
+  <url>
+    <loc>http://mariapichon.github.io/Blog/blog/2015/08/01/class-reflection-and-frustrations/</loc>
+    <lastmod>2015-08-01T11:07:33-05:00</lastmod>
+  </url>
+  <url>
     <loc>http://mariapichon.github.io/Blog/blog/2015/07/26/more-html-and-css/</loc>
     <lastmod>2015-07-26T10:54:00-05:00</lastmod>
   </url>
