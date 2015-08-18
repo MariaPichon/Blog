@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://mariapichon.github.io/Blog/atom.xml" rel="self"/>
   <link href="http://mariapichon.github.io/Blog/"/>
-  <updated>2015-08-18T10:21:59-05:00</updated>
+  <updated>2015-08-18T10:29:03-05:00</updated>
   <id>http://mariapichon.github.io/Blog/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[More Java, Graphic Design and UX Conference]]></title>
+    <link href="http://mariapichon.github.io/Blog/blog/2015/07/06/more-java-graphic-design-and-ux-conference/"/>
+    <updated>2015-07-06T10:25:01-05:00</updated>
+    <id>http://mariapichon.github.io/Blog/blog/2015/07/06/more-java-graphic-design-and-ux-conference</id>
+    <content type="html"><![CDATA[<p>Monday 7/6/2015: Today we finished our Scrum board workshop! It was really interesting seeing how much we can get done in just two days and the amazing things we can do to working as a team!</p>
+
+<p>Tuesday 7/7/2015: I finally finished working on Worksheet 2. It was really challenging and I still have some questions but I am feeling much more confident about javascript and I think that if we review later and go over the questions I will get a even deeper understanding!</p>
+
+<p>Wednesday 7/8/2015: Today was a really fun day! We had a Graphic design workshop and learned about the different properties involving it and got to create some patterns to exercise our understanding on them. I also reviewed how to push our blog posts because I had forgotten how to do it.</p>
+
+<p>Friday 7/10/2015: Today was a really fun day! It was really informative and interesting. My favourite speech was the one that was given about generation z. Unfortunately I was only able to stay at the conference for four hours because I had to go to work afterwards but I loved the whole experience and am looking forward to something Similar again!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Loops]]></title>
