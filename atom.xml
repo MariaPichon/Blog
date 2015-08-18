@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://mariapichon.github.io/Blog/atom.xml" rel="self"/>
   <link href="http://mariapichon.github.io/Blog/"/>
-  <updated>2015-08-18T10:17:36-05:00</updated>
+  <updated>2015-08-18T10:21:59-05:00</updated>
   <id>http://mariapichon.github.io/Blog/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Loops]]></title>
+    <link href="http://mariapichon.github.io/Blog/blog/2015/06/29/loops/"/>
+    <updated>2015-06-29T10:19:39-05:00</updated>
+    <id>http://mariapichon.github.io/Blog/blog/2015/06/29/loops</id>
+    <content type="html"><![CDATA[<p>This week I learned a lot!I have progressed a lot in worksheet 2 but there&rsquo;s still a couple thing that i don&rsquo;t completely understand like loops. I also had lots of fun doing our first workshop. Everyone took it seriously and participated. I learned what a scrum board does and how it works. Overall week 3 was good.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[JavaScript and Mood Boards]]></title>
