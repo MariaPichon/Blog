@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://mariapichon.github.io/Blog/atom.xml" rel="self"/>
   <link href="http://mariapichon.github.io/Blog/"/>
-  <updated>2015-08-18T11:42:21-05:00</updated>
+  <updated>2015-08-18T11:50:07-05:00</updated>
   <id>http://mariapichon.github.io/Blog/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Mock Interviews]]></title>
+    <link href="http://mariapichon.github.io/Blog/blog/2015/08/16/mock-interviews/"/>
+    <updated>2015-08-16T11:48:39-05:00</updated>
+    <id>http://mariapichon.github.io/Blog/blog/2015/08/16/mock-interviews</id>
+    <content type="html"><![CDATA[<p>This week has gone well! My Portfolio website is starting to look good. I have managed to get the layout that I wanted this whole time and added a pdf of my resume incase anyone wants to download it. Although I&rsquo;m liking it I still feel like it&rsquo;s too simple and is missing something but I don&rsquo;t know what to add to it or What to do with it. I also got a slideshow that I want to use for my projects working but I don&rsquo;t know how to add it to my portfolio so hopefully I get that working! I have learned a lot! and have also experienced what I could be doing if I get an internship/job related to this job because two graduates of the last cohort visited us and gave us an example of what they have been doing in their internship with drones! I also learned a lot about what to do in interviews ! Although the mock interviews we had this week were scary they gave me a lot of knowledge and I received great tips on what to do to give a great impression.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Catching Up]]></title>
