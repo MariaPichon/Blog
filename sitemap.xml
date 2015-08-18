@@ -37,9 +37,12 @@
     <lastmod>2015-06-19T10:03:53-05:00</lastmod>
   </url>
   <url>
+    <loc>http://mariapichon.github.io/Blog/</loc>
+  </url>
+  <url>
     <loc>http://mariapichon.github.io/Blog/blog/archives/</loc>
   </url>
   <url>
-    <loc>http://mariapichon.github.io/Blog/</loc>
+    <loc>http://mariapichon.github.io/Blog/posts/</loc>
   </url>
 </urlset>
