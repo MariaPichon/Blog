@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[My Blog]]></title>
   <link href="http://mariapichon.github.io/Blog/atom.xml" rel="self"/>
   <link href="http://mariapichon.github.io/Blog/"/>
-  <updated>2015-08-25T12:42:25-05:00</updated>
+  <updated>2015-08-25T15:08:51-05:00</updated>
   <id>http://mariapichon.github.io/Blog/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Maria Isabel Pichon Cadena]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -18,7 +18,7 @@
     <link href="http://mariapichon.github.io/Blog/blog/2015/08/24/ruby/"/>
     <updated>2015-08-24T17:39:37-05:00</updated>
     <id>http://mariapichon.github.io/Blog/blog/2015/08/24/ruby</id>
-    <content type="html"><![CDATA[<p>This week was very good. We started working on our group projects! It has been really interesting ! I&rsquo;m looking forward to what the final outcome is going to look like. I was struggling with my part of the project but I looked at examples and was finally able to do part of my job! For me it was hard because I feel like I don&rsquo;t have much imagination and I also didn&rsquo;t want to come up with something that seemed stupid so looking at the examples really helped me!!  Also Akbar moved to New York this wednesday so it&rsquo;s going to be interesting to see how this group project works out!</p>
+    <content type="html"><![CDATA[<p>This week was very good. We started working on our group projects! It has been really interesting ! <!--more--> I&rsquo;m looking forward to what the final outcome is going to look like. I was struggling with my part of the project but I looked at examples and was finally able to do part of my job! For me it was hard because I feel like I don&rsquo;t have much imagination and I also didn&rsquo;t want to come up with something that seemed stupid so looking at the examples really helped me!!  Also Akbar moved to New York this wednesday so it&rsquo;s going to be interesting to see how this group project works out!</p>
 ]]></content>
   </entry>
   
@@ -36,7 +36,7 @@
     <link href="http://mariapichon.github.io/Blog/blog/2015/08/10/catching-up/"/>
     <updated>2015-08-10T11:38:33-05:00</updated>
     <id>http://mariapichon.github.io/Blog/blog/2015/08/10/catching-up</id>
-    <content type="html"><![CDATA[<p>This weeek has been going really well! I have been getting a lot of work done! Although I got lots of work done this week I didn&rsquo;t geet enough time to finish all of my projects because I worked this whole weekend from morning to night and got home really tired. Although I catched up on many things that weren&rsquo;t complete I&rsquo;m now behind on newer projects because I have been having trouble comprehending them.</p>
+    <content type="html"><![CDATA[<p>This weeek has been going really well! I have been getting a lot of work done! <!--more--> Although I got lots of work done this week I didn&rsquo;t geet enough time to finish all of my projects because I worked this whole weekend from morning to night and got home really tired. Although I catched up on many things that weren&rsquo;t complete I&rsquo;m now behind on newer projects because I have been having trouble comprehending them.</p>
 ]]></content>
   </entry>
   
@@ -45,7 +45,7 @@
     <link href="http://mariapichon.github.io/Blog/blog/2015/08/01/class-reflection-and-frustrations/"/>
     <updated>2015-08-01T11:07:33-05:00</updated>
     <id>http://mariapichon.github.io/Blog/blog/2015/08/01/class-reflection-and-frustrations</id>
-    <content type="html"><![CDATA[<p>I think that overall I have had a good progress. In order to stay in good standing I plan to keep attending class everyday and ask as many questions as I can whenever i&rsquo;m confused. I will also try to help my classmates as much as I can because that not only helps them understand the material but it also helps clarify my understanding and solidify my knowledge.</p>
+    <content type="html"><![CDATA[<p>I think that overall I have had a good progress. In order to stay in good standing I plan to keep attending class everyday and ask as many questions as I can whenever i&rsquo;m confused. <!--more--> I will also try to help my classmates as much as I can because that not only helps them understand the material but it also helps clarify my understanding and solidify my knowledge.</p>
 
 <p>This week was tough. I feel like we are getting a lot of projects and not enough time, which stresses me because once I get home it should be time to relax because we already spent 9 hours in class but instead we have to use the time to keep studying in order to finish all the assignments we are asssigned in time. That&rsquo;s why I was glad when we were announced that chapter 4 won&rsquo;t be due until next week because it lessens the load a bit and gives me a little more time to finish everything else.</p>
 
