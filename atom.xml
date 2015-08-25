@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://mariapichon.github.io/Blog/atom.xml" rel="self"/>
   <link href="http://mariapichon.github.io/Blog/"/>
-  <updated>2015-08-19T10:29:55-05:00</updated>
+  <updated>2015-08-24T21:34:40-05:00</updated>
   <id>http://mariapichon.github.io/Blog/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Ruby]]></title>
+    <link href="http://mariapichon.github.io/Blog/blog/2015/08/24/ruby/"/>
+    <updated>2015-08-24T17:39:37-05:00</updated>
+    <id>http://mariapichon.github.io/Blog/blog/2015/08/24/ruby</id>
+    <content type="html"><![CDATA[<p>This week was very good. We started working on our group projects! It has been really interesting ! I&rsquo;m looking forward to what the final outcome is going to look like. I was struggling with my part of the project but I looked at examples and was finally able to do part of my job! For me it was hard because I feel like I don&rsquo;t have much imagination and I also didn&rsquo;t want to come up with something that seemed stupid so looking at the examples really helped me!!  Also Akbar moved to New York this wednesday so it&rsquo;s going to be interesting to see how this group project works out!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Mock Interviews]]></title>
