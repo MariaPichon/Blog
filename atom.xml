@@ -4,7 +4,7 @@
   <title><![CDATA[My Blog]]></title>
   <link href="http://mariapichon.github.io/Blog/atom.xml" rel="self"/>
   <link href="http://mariapichon.github.io/Blog/"/>
-  <updated>2015-08-27T15:31:25-05:00</updated>
+  <updated>2015-08-27T16:16:15-05:00</updated>
   <id>http://mariapichon.github.io/Blog/</id>
   <author>
     <name><![CDATA[Maria Isabel Pichon Cadena]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Goodbye]]></title>
+    <link href="http://mariapichon.github.io/Blog/blog/2015/08/28/goodbye/"/>
+    <updated>2015-08-28T16:08:26-05:00</updated>
+    <id>http://mariapichon.github.io/Blog/blog/2015/08/28/goodbye</id>
+    <content type="html"><![CDATA[<p>It has been really interesting being part of the YWeb Cohort #2, and it&rsquo;s really sad to say goodbye to all my classmates and friends. Hopefully we will stay in touch and have meetings from time to time. Our last week of class was very interesting. Having group standups on google hangouts was an amazing experience although a bit weird since I don&rsquo;t like being on camera.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Ruby]]></title>

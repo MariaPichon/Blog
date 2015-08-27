@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://mariapichon.github.io/Blog/blog/2015/08/28/goodbye/</loc>
+    <lastmod>2015-08-28T16:08:26-05:00</lastmod>
+  </url>
+  <url>
     <loc>http://mariapichon.github.io/Blog/blog/2015/08/24/ruby/</loc>
     <lastmod>2015-08-24T17:39:37-05:00</lastmod>
   </url>
@@ -51,5 +55,8 @@
   </url>
   <url>
     <loc>http://mariapichon.github.io/Blog/posts/</loc>
+  </url>
+  <url>
+    <loc>http://mariapichon.github.io/Blog/posts/2/</loc>
   </url>
 </urlset>
