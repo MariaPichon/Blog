@@ -5,7 +5,7 @@
 <!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
 <head>
   <meta charset="utf-8">
-  <title>Welcome to my Blog - My Blog</title>
+  <title>Welcome to My Blog - My Blog</title>
   <meta name="author" content="Maria Isabel Pichon Cadena">
 
   
@@ -21,11 +21,11 @@
   <link rel="canonical" href="http://mariapichon.github.io/Blog/blog/2015/06/19/welcome-to-my-blog/">
   <link href="/Blog/favicon.png" rel="icon">
   <link href="/Blog/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
-  <script src="/Blog/javascripts/modernizr-2.0.js"></script>
-  <script src="/Blog/javascripts/ender.js"></script>
-  <script src="/Blog/javascripts/octopress.js" type="text/javascript"></script>
   <link href="/Blog/atom.xml" rel="alternate" title="My Blog" type="application/atom+xml">
-  <link href='http://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+  <script src="/Blog/javascripts/modernizr-2.0.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script>!window.jQuery && document.write(unescape('%3Cscript src="/javascripts/libs/jquery.min.js"%3E%3C/script%3E'))</script>
+  <script src="/Blog/javascripts/octopress.js" type="text/javascript"></script>
   <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
 <link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
 <link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
@@ -59,7 +59,7 @@
   
 <form action="https://www.google.com/search" method="get">
   <fieldset role="search">
-    <input type="hidden" name="q" value="site:mariapichon.github.io/Blog" />
+    <input type="hidden" name="sitesearch" value="mariapichon.github.io/Blog">
     <input class="search" type="text" name="q" results="0" placeholder="Search"/>
   </fieldset>
 </form>
@@ -77,9 +77,7 @@
   
   <header>
     
-      
-        <h1 class="entry-title">Welcome to My Blog</h1>
-      
+      <h1 class="entry-title">Welcome to My Blog</h1>
     
     
       <p class="meta">
@@ -88,14 +86,7 @@
 
 
 
-
-
-
-
-  
-
-
-<time datetime="2015-06-19T10:03:53-05:00" pubdate data-updated="true"></time>
+<time class='entry-date' datetime='2015-06-19T10:03:53-05:00'><span class='date'><span class='date-month'>Jun</span> <span class='date-day'>19</span><span class='date-suffix'>th</span>, <span class='date-year'>2015</span></span> <span class='time'>10:03 am</span></time>
         
       </p>
     
@@ -118,14 +109,7 @@
 
 
 
-
-
-
-
-  
-
-
-<time datetime="2015-06-19T10:03:53-05:00" pubdate data-updated="true"></time>
+<time class='entry-date' datetime='2015-06-19T10:03:53-05:00'><span class='date'><span class='date-month'>Jun</span> <span class='date-day'>19</span><span class='date-suffix'>th</span>, <span class='date-year'>2015</span></span> <span class='time'>10:03 am</span></time>
       
 
 
@@ -141,7 +125,7 @@
     <p class="meta">
       
       
-        <a class="basic-alignment right articlenav" href="/Blog/blog/2015/06/26/javascript-and-mood-boards/" title="Next Post: JavaScript and Mood Boards">JavaScript and Mood Boards &raquo;</a>
+        <a class="basic-alignment right" href="/Blog/blog/2015/06/26/javascript-and-mood-boards/" title="Next Post: JavaScript and Mood Boards">JavaScript and Mood Boards &raquo;</a>
       
     </p>
   </footer>
@@ -187,7 +171,7 @@
   <a href="https://github.com/MariaPichon">@MariaPichon</a> on GitHub
   
   <script type="text/javascript">
-    $.domReady(function(){
+    $(document).ready(function(){
         if (!window.jXHR){
             var jxhr = document.createElement('script');
             jxhr.type = 'text/javascript';
