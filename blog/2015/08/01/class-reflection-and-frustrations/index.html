@@ -21,36 +21,30 @@
   <link rel="canonical" href="http://mariapichon.github.io/Blog/blog/2015/08/01/class-reflection-and-frustrations/">
   <link href="/Blog/favicon.png" rel="icon">
   <link href="/Blog/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
-  <link href="/Blog/atom.xml" rel="alternate" title="My Blog" type="application/atom+xml">
   <script src="/Blog/javascripts/modernizr-2.0.js"></script>
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-  <script>!window.jQuery && document.write(unescape('%3Cscript src="/javascripts/libs/jquery.min.js"%3E%3C/script%3E'))</script>
+  <script src="/Blog/javascripts/ender.js"></script>
   <script src="/Blog/javascripts/octopress.js" type="text/javascript"></script>
+  <link href="/Blog/atom.xml" rel="alternate" title="My Blog" type="application/atom+xml">
   <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
 <link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
 <link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
 
   
 
 </head>
 
-<body   >
+<body>
   <header role="banner"><hgroup>
-  <div id="logo">
-  	<div id="logoLeft">{</div>
-  	<div id="logoText">sihugh</div>
-  	<div id="logoRight">}</div>
-  	<div class="clear"></div>
-  </div>
   <h1><a href="/Blog/">My Blog</a></h1>
   
     <h2>My Journey Through YWeb Academy</h2>
   
-  <div class="clear"></div>
 </hgroup>
 
 </header>
-  <nav role="navigation"><ul class="subscription" data-subscription="rss email">
+  <div id="navigation">
+    <nav role="navigation"><ul class="subscription" data-subscription="rss email">
   <li><a href="/Blog/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
   
     <li><a href="mariapichon4@gmail.com" rel="subscribe-email" title="subscribe via email">Email</a></li>
@@ -59,7 +53,7 @@
   
 <form action="https://www.google.com/search" method="get">
   <fieldset role="search">
-    <input type="hidden" name="sitesearch" value="mariapichon.github.io/Blog">
+    <input type="hidden" name="q" value="site:mariapichon.github.io/Blog" />
     <input class="search" type="text" name="q" results="0" placeholder="Search"/>
   </fieldset>
 </form>
@@ -70,9 +64,11 @@
 </ul>
 
 </nav>
-  <div id="main">
-    <div id="content">
-      <div>
+  </div>
+  <div id="body"  >
+    <div id="main">
+      <div id="content">
+        <div>
 <article class="hentry" role="article">
   
   <header>
@@ -86,7 +82,14 @@
 
 
 
-<time class='entry-date' datetime='2015-08-01T11:07:33-05:00'><span class='date'><span class='date-month'>Aug</span> <span class='date-day'>1</span><span class='date-suffix'>st</span>, <span class='date-year'>2015</span></span> <span class='time'>11:07 am</span></time>
+
+
+
+
+  
+
+
+<time datetime="2015-08-01T11:07:33-05:00" pubdate data-updated="true"></time>
         
       </p>
     
@@ -113,7 +116,14 @@
 
 
 
-<time class='entry-date' datetime='2015-08-01T11:07:33-05:00'><span class='date'><span class='date-month'>Aug</span> <span class='date-day'>1</span><span class='date-suffix'>st</span>, <span class='date-year'>2015</span></span> <span class='time'>11:07 am</span></time>
+
+
+
+
+  
+
+
+<time datetime="2015-08-01T11:07:33-05:00" pubdate data-updated="true"></time>
       
 
 
@@ -177,7 +187,7 @@
   <a href="https://github.com/MariaPichon">@MariaPichon</a> on GitHub
   
   <script type="text/javascript">
-    $(document).ready(function(){
+    $.domReady(function(){
         if (!window.jXHR){
             var jxhr = document.createElement('script');
             jxhr.type = 'text/javascript';
@@ -205,15 +215,15 @@
 </aside>
 
 
+      </div>
     </div>
-  </div>
-  <footer role="contentinfo"><p>
+    <footer role="contentinfo"><p>
   Copyright &copy; 2015 - Maria Isabel Pichon Cadena -
-  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a>. Design by <a href="http://octopressthemes.com">Octopress Themes</a></span>
 </p>
 
 </footer>
-  
+    
 
 
 
@@ -225,5 +235,6 @@
 
 
 
+  </div>
 </body>
 </html>

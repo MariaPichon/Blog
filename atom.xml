@@ -4,7 +4,7 @@
   <title><![CDATA[My Blog]]></title>
   <link href="http://mariapichon.github.io/Blog/atom.xml" rel="self"/>
   <link href="http://mariapichon.github.io/Blog/"/>
-  <updated>2015-08-27T16:16:15-05:00</updated>
+  <updated>2015-08-28T10:03:48-05:00</updated>
   <id>http://mariapichon.github.io/Blog/</id>
   <author>
     <name><![CDATA[Maria Isabel Pichon Cadena]]></name>
@@ -114,7 +114,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Welcome to My Blog]]></title>
+    <title type="html"><![CDATA[Welcome to my Blog]]></title>
     <link href="http://mariapichon.github.io/Blog/blog/2015/06/19/welcome-to-my-blog/"/>
     <updated>2015-06-19T10:03:53-05:00</updated>
     <id>http://mariapichon.github.io/Blog/blog/2015/06/19/welcome-to-my-blog</id>
