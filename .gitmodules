@@ -1,9 +1,0 @@
-[submodule ".themes/MediumFox"]
-	path = .themes/MediumFox
-	url = https://github.com/sevenadrian/MediumFox
-[submodule ".themes/emd-theme"]
-	path = .themes/emd-theme
-	url = git@github.com:vidblog/emd-theme.git
-[submodule ".themes/blanket"]
-	path = .themes/blanket
-	url = git://github.com/octothemes/blanket.git
